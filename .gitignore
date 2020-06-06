@@ -36,6 +36,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Sqlite
+*.sqlite
+
 ### Node ###
 # Logs
 logs
